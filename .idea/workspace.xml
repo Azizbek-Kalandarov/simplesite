@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e7663b1-5cb2-44e1-9e7d-6e105b94203e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVprM3rmxon1pN4QPC5xOOLQVv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../page1" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PDP\FrontEnd\Praktika1\image" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7663b1-5cb2-44e1-9e7d-6e105b94203e" name="Default Changelist" comment="" />
+      <created>1577348313902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577348313902</updated>
+      <workItem from="1577348316448" duration="15517000" />
+      <workItem from="1577429200758" duration="12576000" />
+      <workItem from="1577472823425" duration="592000" />
+      <workItem from="1577525462197" duration="4064000" />
+      <workItem from="1577532675315" duration="1403000" />
+      <workItem from="1577620926998" duration="167000" />
+      <workItem from="1579010117570" duration="45000" />
+      <workItem from="1579700109127" duration="6000" />
+      <workItem from="1579808447981" duration="185000" />
+      <workItem from="1579808646841" duration="7000" />
+      <workItem from="1584021481294" duration="357000" />
+      <workItem from="1584630113840" duration="61000" />
+      <workItem from="1584643333927" duration="2000" />
+      <workItem from="1591604054587" duration="3378000" />
+      <workItem from="1591692580269" duration="1467000" />
+      <workItem from="1591774454167" duration="2812000" />
+      <workItem from="1591812599677" duration="2095000" />
+      <workItem from="1591953790917" duration="2598000" />
+      <workItem from="1592209448828" duration="767000" />
+      <workItem from="1592298213422" duration="791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="176" key="FileChooserDialogImpl" timestamp="1592298291325">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592298291325" />
+  </component>
+</project>
